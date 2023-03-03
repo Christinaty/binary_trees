@@ -1,7 +1,7 @@
 0x1D. C - Binary trees
 C
 Group project
-Algorithm
+Algorithms
 Data structure
  By: Alexandre Gautier
  Weight: 5
