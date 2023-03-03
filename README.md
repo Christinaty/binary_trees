@@ -2492,8 +2492,7 @@ alex@/tmp/binary_trees$ valgrind ./134-heap_sort
 ==46529== 
 ==46529== For counts of detected and suppressed errors, rerun with: -v
 ==46529== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
-alex@/tmp/binary_trees$
-```
+alex@/tmp/binary_trees```
 
 ### [41. Big O #Binary Heap](./135-O)
 What are the average time complexities of those operations on a Binary Heap (one answer per line):
